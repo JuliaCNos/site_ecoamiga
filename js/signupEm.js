@@ -99,7 +99,7 @@ function cadastrar(){
     msgError.innerHTML = ''
     
     setTimeout(()=>{
-        window.location.href = '../html/signinEm.html'
+        window.location.href = 'signinEm.html'
     }, 2000)
   
     
