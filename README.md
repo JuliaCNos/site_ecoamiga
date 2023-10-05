@@ -25,7 +25,7 @@ redefinindo o futuro do delivery de alimentos.
 Pré-requisitos: Java 11
 ```bash
 # clonar repositório
-git clone 
+git clone https://github.com/JuliaCNos/site_ecoamiga.git
 
 # executar o projeto
 index.html
@@ -38,8 +38,3 @@ complementares para criar um site inovador e atraente para a Entrega EcoAmiga. M
 lidera o desenvolvimento do site, enquanto Julia se concentra no design de interface, Vitoria 
 trabalha no back-end e Barbara garante uma experiência de usuário excepcional. Juntas, elas 
 estão transformando a visão da EcoAmiga em realidade.
-
-
-
-Descubra o futuro do delivery de alimentos, onde sustentabilidade e inovação se encontram. 
-Faça seu pedido e faça parte dessa revolução!
