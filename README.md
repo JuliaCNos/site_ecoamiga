@@ -14,7 +14,7 @@ redefinindo o futuro do delivery de alimentos.
 
 ## Layout web
 
-![Web 2]()
+![Web 2](https://github.com/JuliaCNos/site_ecoamiga/blob/main/images/layout.png)
 
 # Tecnologias utilizadas
 - HTML
