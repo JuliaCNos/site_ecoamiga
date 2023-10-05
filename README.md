@@ -1,6 +1,6 @@
 # Site ECOAMIGA
 
-[![NPM](https://img.shields.io/npm/l/react)]()
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/JuliaCNos/site_ecoamiga/blob/main/LICENSE)
 
 # Sobre o site
 
