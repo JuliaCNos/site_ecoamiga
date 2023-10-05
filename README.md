@@ -20,6 +20,7 @@ redefinindo o futuro do delivery de alimentos.
 - HTML
 - CSS
 - JS
+- SCSS
 
 # Como executar o projeto
 Pré-requisitos: Java 11
