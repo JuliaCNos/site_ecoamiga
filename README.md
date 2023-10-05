@@ -4,7 +4,7 @@
 
 # Sobre o site
 
-LINK: 
+LINK: https://juliacnos.github.io/site_ecoamiga/
 
 A Entrega EcoAmiga é uma empresa revolucionária no delivery de alimentos, priorizando a 
 sustentabilidade e inovação. Seu destaque inclui entregas via drones, veículos elétricos, 
